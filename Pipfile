@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+scikit-learn = "*"
+pandas = "*"
+flask = "*"
+streamlit = "*"
+
+[dev-packages]
+tqdm = "*"
+ipywidgets = "*"
+notebook = "==6.5.7"
+
+[requires]
+python_version = "3.12"
