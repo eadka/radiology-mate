@@ -1,0 +1,38 @@
+{
+  "cardiomegaly": {
+    "short": "enlarged heart",
+    "detailed": "enlarged heart"
+  },
+  "pleural effusion": {
+    "short": "fluid around the lungs",
+    "detailed": "Your pleura is a large, thin sheet of tissue that wraps around the outside of your lungs and lines the inside of your chest cavity. Between the layers of the pleura is a very thin space"
+  },
+  "pulmonary edema": {
+    "short": "fluid in the lungs",
+    "detailed": "Edema means swelling caused by fluid in your body's tissues. It usually occurs in the feet, ankles and legs, but it can involve your entire body"
+  },
+  "pneumothorax": {
+    "short": "collapsed lung",
+    "detailed": "A collapsed lung happens when air enters the pleural space, the area between the lung and the chest wall. If it is a total collapse, it is called pneumothorax"
+  },
+  "atelectasis": {
+    "short": "partial collapse of the lung",
+    "detailed": "A collapsed lung happens when air enters the pleural space, the area between the lung and the chest wall. If it is a total collapse, it is called pneumothorax"
+  },
+  "opacity": {
+    "short": "abnormal shadow on the lung X-ray",
+    "detailed": "abnormal shadow on the lung X-ray"
+  },
+  "infiltrate": {
+    "short": "area of fluid or cells in the lung, often from infection",
+    "detailed": "area of fluid or cells in the lung, often from infection"
+  },
+  "emphysema": {
+    "short": "lung damage that makes it hard to breathe",
+    "detailed": "What is emphysema ? Emphysema is a type of COPD (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time"
+  },
+  "fibrosis": {
+    "short": "scarring of lung tissue",
+    "detailed": "Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time.  This tissue gets thick and stiff"
+  }
+}

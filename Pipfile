@@ -9,6 +9,11 @@ scikit-learn = "*"
 pandas = "*"
 flask = "*"
 streamlit = "*"
+minsearch = "*"
+ipykernel = "*"
+pipenv = "*"
+bs4 = "*"
+dotenv = "*"
 
 [dev-packages]
 tqdm = "*"
